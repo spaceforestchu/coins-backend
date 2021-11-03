@@ -20,6 +20,6 @@
     "node-fetch": "^2.6.0",
     "react-highcharts": "^16.1.0",
     "react-toastify": "^6.0.0-rc.2-1",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
